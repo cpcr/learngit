@@ -12,10 +12,6 @@ add  chenp
 Creating a new branch is quick.
 Creating a new branch is quick.
 Creating a new branch is quick AND simple.
-<<<<<<< HEAD
-11111111111111111111111111111111
-=======
-11111111111111111111111111111111
->>>>>>> featurel
-4444444
-Git is a free software ...
+
+
+
