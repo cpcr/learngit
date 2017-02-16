@@ -77,6 +77,7 @@ git 的基础使用指南
     通常，合并分支时候，git会用fast forward模式，这种模式，删除分支，会丢掉分支信息
 	禁用fast forword模式，，实践下 --no-ff方式的git merge：
 	1、创建并切换分支
+	 git  checkout  -b  dev
 	 
     
 	
